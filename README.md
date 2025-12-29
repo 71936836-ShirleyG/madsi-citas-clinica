@@ -13,7 +13,21 @@
 
 # El objetivo del sistema es optimizar la gestión de citas médicas en una clínica, organizando horarios y disponibilidad de médicos, reduciendo tiempos de espera y mejorando la atención al paciente. Está dirigido a pacientes, recepcionistas y médicos.
 
+\*\*Autor(a): Shirley Galvez Rodriguez\*\*
+
+===
+
+# \## 3. Actores del sistema
+
+# \- \*\*Paciente:\*\* solicita, consulta y cancela citas médicas.
+
+# \- \*\*Recepcionista:\*\* registra pacientes, programa y gestiona las citas.
+
+# \- \*\*Médico:\*\* visualiza su agenda y atiende las citas asignadas.
+
 # \*\*Autor(a): Shirley Galvez Rodriguez\*\*
+
+
 
 
 
